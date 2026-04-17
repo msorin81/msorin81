@@ -7,15 +7,22 @@ Certificado Microsoft Power BI Data Analyst Associate (PL-300).
 ÁreaHerramientasLenguajesPython (pandas, numpy, matplotlib) · R · SQLBI & VisualizaciónPower BI · DAX · Power Query · Excel AvanzadoBases de datosOracle SQL · ETL/ELTEstadísticaAnálisis de capacidad (Cp/Cpk) · Estudios R&R · R Markdown · CEPEntornosJupyter Notebook · R Studio · GitHub
 
 📂 Proyectos Destacados
-📊 Portafolio Power BI — Dashboards Interactivos
-Dashboards publicados con Power BI Embedded sobre emisiones de CO₂ y análisis de ventas.
-Power BI DAX Power Query Data Storytelling
+🛒 Segmentación de Clientes — Online Retail (Versión Final)
+Segmentación con DBSCAN + K-Means sobre datos reales de retail. Incluye visualizaciones interactivas con Plotly y perfiles de cliente nombrados: VIP, Activos y En Riesgo.
+Python DBSCAN K-Means Plotly scikit-learn
+
+💊 Clasificación — Elección de Método Anticonceptivo
+Pipeline completo de clasificación supervisada: detección de outliers con Isolation Forest (PyOD), balanceo de clases con undersampling, PCA y Regresión Logística multiclase.
+Python Isolation Forest PyOD PCA Regresión Logística
+
+🏠 Análisis de la Oferta Inmobiliaria Urbana
+Análisis multivariado del mercado inmobiliario con R: PCA, Clustering Jerárquico (HCPC) y Análisis de Correspondencias Múltiples (MCA). Tres segmentos identificados: económico, medio y premium.
+R FactoMineR PCA HCPC MCA ggplot2
+👉 Ver reporte completo en RPubs
+
 🧪 Análisis de Datos en Salud — Python & Excel
 Prueba práctica para vacante de Analista de Datos: análisis exploratorio, modelado y simulación estadística sobre caso del sector salud.
 Python Jupyter Notebook pandas Estadística Aplicada
-📐 Simulación y Métodos Estadísticos
-Actividad académica de la Maestría en Ciencia de Datos — métodos y simulación estadística.
-R Estadística Ciencia de Datos
 
 🎓 Formación
 
